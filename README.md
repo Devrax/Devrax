@@ -1,4 +1,4 @@
-<h1 align="center">Hello from earth, I'm Rafael Mejia</h1>
+<h1 align="center">Hello from earth🌎, I'm Rafael Mejia👨🏻‍💻</h1>
 <h3 align="center">A passionate frontend developer from DR🇩🇴</h3>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=devrax&show_icons=true&locale=en" alt="devrax" /></p>
